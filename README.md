@@ -9,7 +9,7 @@ Uploading images from Android to a Python-based Flask server
 <p align="center">
   <img src="https://github.com/ak224001/Andriod-and-Flask-Server/blob/master/Images/templateImg.jpg" width="320" height ="600" title="Android_Layout">
 </p>
-## Using OkHttp for building the client-side Android app
+<h2>Using OkHttp for building the client-side Android app</h2>
 
 ## Building the server-side Python app using Flask and running it
 ![Running flask](https://github.com/ak224001/Andriod-and-Flask-Server/blob/master/Images/appImg.png?raw=true)
